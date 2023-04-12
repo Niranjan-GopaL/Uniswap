@@ -1,0 +1,19 @@
+PROGRESS LOG ----------------------------------------------------------->
+
+1) yarn create eth-app my-eth-app (npm create eth-app ./ would work too , go to usseDapp and see the documetnation )
+
+2) there are 3 things :
+    - contracts (all the contracts)
+    - react-app (React front end)
+    - subgraph 
+We dont need sub graph, so del that and remove all the subgraph stuff in the scripts of package.json
+
+MOST IMPORTANT FOR FUTURE --------------------------
+3) There   
+
+"resolutions": {
+    "react-error-overlay" : "6.0.9"
+  }
+
+
+SRART WITH CREATING DOCUMENTATION FOR FIXING THIS ERROR
